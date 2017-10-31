@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kam9
+HostName                       eve.ece.pdx.edu
+ProcessIdentifier              641
+ProcessCreationTime_UTC        1509390329
+ProcessCreationTime_Readable   Mon Oct 30 12:05:29 2017 PDT
+AppIdentifier                  /pkgs/cadence/05-2013-rhel5/IC615/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /u/kam9/cadence/guest13/L3_AOI21_CUSTOM/physConfig/physExpand.cfg
+TimeEditLocked                 Mon Oct 30 17:40:36 2017 PDT

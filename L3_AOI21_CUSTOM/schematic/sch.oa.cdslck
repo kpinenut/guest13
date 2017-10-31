@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kam9
+HostName                       eve.ece.pdx.edu
+ProcessIdentifier              641
+ProcessCreationTime_UTC        1509390331
+ProcessCreationTime_Readable   Mon Oct 30 12:05:31 2017 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /u/kam9/cadence/guest13/L3_AOI21_CUSTOM/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Oct 30 16:28:17 2017 PDT
