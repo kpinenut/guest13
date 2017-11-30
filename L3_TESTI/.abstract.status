@@ -1,0 +1,6 @@
+cUiSetViewStatus {L3_TESTI} {layout} {1}
+cUiSetViewStatus {L3_TESTI} {logical} {0}
+cUiSetViewStatus {L3_TESTI} {abstract.pin} {0}
+cUiSetViewStatus {L3_TESTI} {abstract.ext} {0}
+cUiSetViewStatus {L3_TESTI} {abstract} {0}
+cUiSetViewStatus {L3_TESTI} {abstract.ver} {0}

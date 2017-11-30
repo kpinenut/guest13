@@ -1,0 +1,34 @@
+(pmos_vtl
+  (NCSU_Devices_FreePDK45 PMOS_VTL symbol)
+  (
+    (d D)
+    (b B)
+    (g G)
+    (s S)
+  )
+)
+
+(nmos_vtl
+  (NCSU_Devices_FreePDK45 NMOS_VTL symbol)
+  (
+    (d D)
+    (b B)
+    (g G)
+    (s S)
+  )
+)
+((p cap c)
+  (NCSU_Analog_Parts cap symbol)
+  (
+    (MINUS)
+    (PLUS)
+  )
+)
+
+((p res r)
+  (NCSU_Analog_Parts res symbol)
+  (
+    (MINUS)
+    (PLUS)
+  )
+)

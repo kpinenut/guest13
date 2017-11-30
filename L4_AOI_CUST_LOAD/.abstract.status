@@ -1,0 +1,6 @@
+cUiSetViewStatus {L3_AOI21_CUSTOM} {layout} {1}
+cUiSetViewStatus {L3_AOI21_CUSTOM} {logical} {0}
+cUiSetViewStatus {L3_AOI21_CUSTOM} {abstract.pin} {0}
+cUiSetViewStatus {L3_AOI21_CUSTOM} {abstract.ext} {0}
+cUiSetViewStatus {L3_AOI21_CUSTOM} {abstract} {0}
+cUiSetViewStatus {L3_AOI21_CUSTOM} {abstract.ver} {0}

@@ -1,0 +1,6 @@
+cUiSetViewStatus {L3_NAND} {layout} {1}
+cUiSetViewStatus {L3_NAND} {logical} {0}
+cUiSetViewStatus {L3_NAND} {abstract.pin} {0}
+cUiSetViewStatus {L3_NAND} {abstract.ext} {0}
+cUiSetViewStatus {L3_NAND} {abstract} {0}
+cUiSetViewStatus {L3_NAND} {abstract.ver} {0}

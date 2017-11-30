@@ -1,0 +1,6 @@
+cUiSetViewStatus {L3_InvDut_CUSTOM} {layout} {1}
+cUiSetViewStatus {L3_InvDut_CUSTOM} {logical} {0}
+cUiSetViewStatus {L3_InvDut_CUSTOM} {abstract.pin} {0}
+cUiSetViewStatus {L3_InvDut_CUSTOM} {abstract.ext} {0}
+cUiSetViewStatus {L3_InvDut_CUSTOM} {abstract} {0}
+cUiSetViewStatus {L3_InvDut_CUSTOM} {abstract.ver} {0}
