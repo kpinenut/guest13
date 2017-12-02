@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nb6
+HostName                       eve.ece.pdx.edu
+ProcessIdentifier              10976
+ProcessCreationTime_UTC        1510933437
+ProcessCreationTime_Readable   Fri Nov 17 07:43:57 2017 PST
+AppIdentifier                  /pkgs/cadence/05-2013-rhel5/IC615/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /u/nb6/cadence/guest13/L4_BUFFER/constraint/prop.cfg
+TimeEditLocked                 Sat Nov 18 09:35:08 2017 PST

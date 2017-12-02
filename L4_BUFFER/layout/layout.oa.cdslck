@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nb6
+HostName                       eve.ece.pdx.edu
+ProcessIdentifier              10976
+ProcessCreationTime_UTC        1510933438
+ProcessCreationTime_Readable   Fri Nov 17 07:43:58 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /u/nb6/cadence/guest13/L4_BUFFER/layout/layout.oa.cdslck
+TimeEditLocked                 Sat Nov 18 09:35:07 2017 PST

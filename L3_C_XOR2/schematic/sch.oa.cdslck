@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nb6
+HostName                       walle.ece.pdx.edu
+ProcessIdentifier              30990
+ProcessCreationTime_UTC        1511226055
+ProcessCreationTime_Readable   Mon Nov 20 17:00:55 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /u/nb6/cadence/guest13/L3_C_XOR2/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Mon Nov 20 17:44:05 2017 PST
